@@ -12,6 +12,7 @@ gem "bootsnap", ">= 1.1.0", require: false
 gem "config"
 gem "activerecord-import"
 gem "ffaker"
+gem "roo"
 
 group :development, :test do
   gem "pry-rails"
