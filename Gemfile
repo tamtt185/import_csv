@@ -5,7 +5,7 @@ ruby "2.5.1"
 
 gem "rails", "~> 5.2.2.1"
 gem "mysql2", ">= 0.4.4", "< 0.6.0"
-gem "puma", "~> 3.11"
+gem "puma", "~> 4.3"
 gem "jbuilder", "~> 2.5"
 gem "dotenv-rails"
 gem "bootsnap", ">= 1.1.0", require: false
